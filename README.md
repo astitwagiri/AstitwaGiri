@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** based in Sydney, Australia. I specialize in build
 - 🌱 I’m currently deepening my knowledge in **System Architecture** and **Serverless Edge Functions**.
 - 🤝 Open to collaboration on React/Next.js projects.
 
----
+---]
 
 ### 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,7 +16,13 @@ I'm a **Full Stack Developer** based in Sydney, Australia. I specialize in build
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## TECHNICAL SKILLS
 
+* **Languages:** TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3
+* **Frontend:** React.js, Next.js (App Router), Tailwind CSS, ShadCN UI, Redux
+* **Backend:** Node.js, Express.js, Supabase (Auth/Realtime), OpenAI API, Socket.io
+* **Database:** PostgreSQL, MongoDB, Prisma ORM, Row Level Security (RLS)
+* **DevOps & Tools:** AWS (EC2/S3), Vercel, Docker, CI/CD Pipelines, Git, Stripe Connect
 ---
 
 ### 🚀 Featured Projects
